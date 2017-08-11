@@ -1,2 +1,3 @@
 # tp_gantt
-tracking predictive Gantt chart
+
+**Tracking predictive Gantt chart** for tracking *Stochastic Resource Constrained Project Scheduling Problems (SRCPSP)*.
